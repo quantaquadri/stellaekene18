@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('../images/ajax-loader.gif') center center no-repeat;
+    background: #fff url('https://res.cloudinary.com/dxuap8kxy/image/upload/v1539585698/stellar/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,11 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('../fonts/slick.eot');
-    src: url('../fonts/slickd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/slick.woff') format('woff'), url('../fonts/slick.ttf') format('truetype'), url('../fonts/slick.svg#slick') format('svg');
+    src: url('https://res.cloudinary.com/dxuap8kxy/raw/upload/v1539585683/stellar/slick.eot');
+    src: url('https://res.cloudinary.com/dxuap8kxy/raw/upload/v1539585684/stellar/slickd41d.eot?#iefix') format('embedded-opentype'),
+     url('https://res.cloudinary.com/dxuap8kxy/raw/upload/v1539585684/stellar/slick.woff') format('woff'), 
+     url('https://res.cloudinary.com/dxuap8kxy/raw/upload/v1539585684/stellar/slick.ttf') format('truetype'), 
+     url('https://drive.google.com/open?id=1Cmr9rYr3sSyfKSJ3YP8GMyqNr_krVvLt#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

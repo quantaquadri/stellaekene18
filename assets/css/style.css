@@ -323,7 +323,7 @@ button:focus {
 
 .section-title:before {
   content: "";
-  background: url("../images/section-title-flower.png") center center/auto no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586054/stellar/section-title-flower.png") center center/auto no-repeat local;
   width: 172px;
   height: 84px;
   position: absolute;
@@ -465,7 +465,7 @@ button:focus {
 
 .form select {
   font-style: italic;
-  background: url(../images/select-icon.png) no-repeat right center;
+  background: url(https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586078/stellar/select-icon.png) no-repeat right center;
   display: inline-block;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -1683,7 +1683,7 @@ button:focus {
 }
 
 .hero-style-1 .hero-circle .circle-inner, .hero-style-2 .hero-circle .circle-inner, .hero-with-static-image-s2 .hero-circle .circle-inner, .hero-with-static-image .hero-circle .circle-inner {
-  background: url("../images/slider/hero-shape.png") center center/100% no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586193/stellar/hero-shape.png") center center/100% no-repeat local;
   width: 650px;
   height: 568px;
   display: table;
@@ -1853,7 +1853,7 @@ button:focus {
 }
 
 .hero-style-2 .hero-circle .circle-inner, .hero-with-static-image-s2 .hero-circle .circle-inner {
-  background: url("../images/slider/hero-shape2.png") center center/100% no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586242/stellar/hero-shape2.png") center center/100% no-repeat local;
 }
 
 @media screen and (min-width: 992px) {
@@ -1898,7 +1898,7 @@ button:focus {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("../images/t25.jpg") center center/cover no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586291/stellar/t25.jpg") center center/cover no-repeat local;
   text-align: center;
   padding: 235px 0 250px;
   position: relative;
@@ -3129,7 +3129,7 @@ button:focus {
 }
 
 .rsvp-section .rsvp-outer .flower-top {
-  background: url("../images/form-outer-flower.png") center center/cover no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586357/stellar/form-outer-flower.png") center center/cover no-repeat local;
   content: "";
   width: 372px;
   height: 371px;
@@ -3140,7 +3140,7 @@ button:focus {
 }
 
 .rsvp-section .rsvp-outer .flower-bottom {
-  background: url("../images/form-outer-flower.png") center center/cover no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586357/stellar/form-outer-flower.png") center center/cover no-repeat local;
   content: "";
   width: 372px;
   height: 371px;
@@ -3154,7 +3154,7 @@ button:focus {
 }
 
 .rsvp-section .rsvp-inner {
-  background: url("../images/rsvp-form-bg.jpg") center center/cover no-repeat local;
+  background: url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586413/stellar/rsvp-form-bg.jpg") center center/cover no-repeat local;
   padding: 90px 80px 80px;
   text-align: center;
   position: relative;
@@ -3249,7 +3249,7 @@ button:focus {
 
 .rsvp-section form select {
   font-style: italic;
-  background: url(../images/select-icon.png) no-repeat calc(100% - 15px) center;
+  background: url(https://res.cloudinary.com/dxuap8kxy/image/upload/v1539586078/stellar/select-icon.png) no-repeat calc(100% - 15px) center;
   display: inline-block;
   -webkit-appearance: none;
   -moz-appearance: none;
